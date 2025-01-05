@@ -1,5 +1,5 @@
 
-# Amazon Books Data Pipeline 
+# ETL Pipeline to download and process Amazon books
 -----------
 
 
